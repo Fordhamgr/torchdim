@@ -9,14 +9,6 @@ iOS-style flashlight brightness slider for Android. Quick Settings tile with a l
 
 ---
 
-## Screenshots
-
-<p align="center">
-  <img src="docs/screenshots/torchdim_screen.png" width="300" alt="TorchDim Main Screen" />
-</p>
-
----
-
 ## Features
 
 - 🔆 **Quick Settings Tile (Tap to Cycle):**
