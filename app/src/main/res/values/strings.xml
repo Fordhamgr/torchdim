@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TorchDim</string>
+    <string name="tile_label">TorchDim</string>
+    <string name="level_headline">Level %1$d</string>
+    <string name="off_headline">Off</string>
+    <string name="level_subtitle_on">of %1$d · Torch is on</string>
+    <string name="level_subtitle_off">of %1$d · Torch is off</string>
+    <string name="card_title">Add the tile</string>
+    <string name="card_description">Swipe down, tap the pencil, and drag TorchDim into your Quick Settings.</string>
+    <string name="btn_turn_on">Turn on</string>
+    <string name="btn_turn_off">Turn off</string>
+    <string name="source_on_github">Source on GitHub:</string>
+    <string name="github_repo_display">github.com/Fordhamgr/torchdim</string>
+    <string name="github_repo_url">https://github.com/Fordhamgr/torchdim</string>
+    <string name="no_flash_found">No flash unit found</string>
+</resources>

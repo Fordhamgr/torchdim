@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Solid body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M8,7h8l-1.5,4v9a1,1 0 0,1 -1,1h-3a1,1 0 0,1 -1,-1v-9z" />
+    <!-- 6 Radiant Beam Rays (Level 6 Max) -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M3.8,6l3.2,1M6.5,3.2l2.2,2.2M10,1.5l1,3M14,1.5l-1,3M17.5,3.2l-2.2,2.2M20.2,6l-3.2,1" />
+</vector>
